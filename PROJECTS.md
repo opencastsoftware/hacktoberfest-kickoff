@@ -27,3 +27,13 @@
 - [testcontainers-java](https://github.com/testcontainers/testcontainers-java/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) - a Java library that enables using Docker containers in JUnit tests
 - [tldr-pages](https://github.com/tldr-pages/tldr/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) - a set of community-maintained help pages for command line tools written in Markdown
 - [ts-node](https://github.com/TypeStrong/ts-node/issues?q=is%3Aopen+is%3Aissue+label%3A%22you+can+do+this%22) - a TypeScript REPL for Node.js
+
+## Project lists
+
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+* [Up For Grabs](https://up-for-grabs.net)
+
+## Other ideas
+
+* Check out the [hacktoberfest topic](https://github.com/topics/hacktoberfest) on GitHub Explore
+
